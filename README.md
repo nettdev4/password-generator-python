@@ -20,10 +20,10 @@ a#B7k@P2m!Q8
 
 ## Запуск
 
-Скачайте файл `generator-password.py` и выполните:
+Скачайте файл `password-generator.py` и выполните:
 
 ```bash
-python generator-password.py
+python password-generator.py
 ```
 
 ## Технологии
